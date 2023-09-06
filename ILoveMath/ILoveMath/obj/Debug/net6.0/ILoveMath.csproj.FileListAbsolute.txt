@@ -1,0 +1,14 @@
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\bin\Debug\net6.0\ILoveMath.exe
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\bin\Debug\net6.0\ILoveMath.deps.json
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\bin\Debug\net6.0\ILoveMath.runtimeconfig.json
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\bin\Debug\net6.0\ILoveMath.dll
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\bin\Debug\net6.0\ILoveMath.pdb
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\obj\Debug\net6.0\ILoveMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\obj\Debug\net6.0\ILoveMath.AssemblyInfoInputs.cache
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\obj\Debug\net6.0\ILoveMath.AssemblyInfo.cs
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\obj\Debug\net6.0\ILoveMath.csproj.CoreCompileInputs.cache
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\obj\Debug\net6.0\ILoveMath.dll
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\obj\Debug\net6.0\refint\ILoveMath.dll
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\obj\Debug\net6.0\ILoveMath.pdb
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\obj\Debug\net6.0\ILoveMath.genruntimeconfig.cache
+C:\Users\MCB\Desktop\Yazılım\Github\CSharp-Small-Projects-and-Exercises\ILoveMath\ILoveMath\obj\Debug\net6.0\ref\ILoveMath.dll
